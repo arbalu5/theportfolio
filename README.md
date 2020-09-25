@@ -1,6 +1,9 @@
 ## Lucy's Portfolio 
 
->Front-end Developer Jr and Marketeer
+#### Front-end Developer Jr and Marketeer
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 
 
 ### Technologies
