@@ -1,28 +1,28 @@
-import project1 from "../assets/project1.png";
-import project2 from "../assets/project2.png";
-import project3 from "../assets/project3.png";
+import project1 from "../assets/project1.jpg";
+import project2 from "../assets/project2.jpg";
+import project3 from "../assets/project3.jpg";
 
 const PROJECTS = [
   {
     id: 1,
-    title: "Example React App",
-    description: "A React app that I built involving JS and core dev concepts",
-    link: "www.github.com/arbalu5",
+    title: "Presentation App",
+    description: "A team presentation app built using JavaScript and SASS concepts",
+    link: "http://beta.adalab.es/project-promo-i-module-1-team-4-afternoon/",
     image: project1,
   },
   {
     id: 2,
-    title: "My API",
+    title: "Movie API",
     description:
-      "A REST API that I built from scratch with GET and POST requests!",
+      "A React App that I built using GET and POST requests!",
     link: "www.github.com/arbalu5",
     image: project2,
   },
   {
     id: 3,
-    title: "OS Final Project",
-    description: "My unique final project from university",
-    link: "www.github.com/arbalu5",
+    title: "Monster-killer game",
+    description: "Monster killer app using core JavaScript concepts",
+    link: "https://github.com/arbalu5/monster-killer-game",
     image: project3,
   },
 ];
