@@ -56,3 +56,12 @@ h3 {
     opacity: 100;
   }
 }
+
+/* Navigation */
+.navigation {
+  display: inline-block;
+  /* margin: 10;
+  margin-bottom: 30; */
+  margin: 5px 10px 30px;
+  padding: 10;
+}

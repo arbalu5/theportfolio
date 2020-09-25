@@ -22,7 +22,9 @@ class Jokes extends Component {
       <div>
         <h3>Famous Quotes:</h3>
         <p>
-          <em>"{content}" - {author}</em>
+          <em>
+            "{content}" - {author}
+          </em>
         </p>
         <hr />
         <h3>Want some jokes?</h3>
@@ -31,7 +33,9 @@ class Jokes extends Component {
           const { id, setup, punchline } = joke;
           return (
             <p key={id}>
-              <em>{setup} - {punchline}</em>
+              <em>
+                {setup} - {punchline}
+              </em>
             </p>
           );
         })}
