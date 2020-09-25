@@ -1,6 +1,6 @@
 ## Lucy's Portfolio 
 
-<h3>Front-end Developer Jr and Marketeer</h3>
+>Front-end Developer Jr and Marketeer
 
 
 ### Technologies
