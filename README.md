@@ -1,12 +1,13 @@
 ## Lucy's Portfolio 
 
-#### Front-end Developer Jr and Marketeer
+#### 🌀 Front-end Developer Jr and Marketeer 🌀
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+This repo contains my portfolio resume that showcases examples of projects that I've built. It was created with HTML, CSS, Javascript and React.js.
 
 
-### Technologies
+### Technologies  ⚙️
 
 - HTML
 
@@ -20,7 +21,7 @@
 
 - Gulp
 
-### Projects
+### Projects  ✨
 
  - [x] A team presentation app using Vanilla JavaScript concepts
  - [x] Movie search app in React
