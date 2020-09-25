@@ -1,9 +1,9 @@
 ## Lucy's Portfolio 
 
-<h2>Front-end Developer Jr and Marketeer</h2>
+<h3>Front-end Developer Jr and Marketeer</h3>
 
 
-## Technologies
+### Technologies
 
 - HTML
 
@@ -17,7 +17,7 @@
 
 - Gulp
 
-## Projects
+### Projects
 
  - [x] A team presentation app using Vanilla JavaScript concepts
  - [x] Movie search app in React
@@ -25,7 +25,8 @@
  - [ ] More games
  - [ ] More APIs
  
- ## Contact
+ 
+### Contact
 
 📧 E-mail <a href="mailto:arbalu5@gmail.com" target="_blank">`arbalu5@gmail.com`</a>
 
